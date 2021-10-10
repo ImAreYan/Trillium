@@ -1,0 +1,121 @@
+<resources>
+    <string name="app_name">Trillium</string>
+    <string name="covid_19_resources_and_infomation">COVID-19 RESOURCES AND INFOMATION</string>
+    <string name="covid_19_assessment">COVID-19 Assessment</string>
+    <string name="covid_19_true_or_false_game">COVID-19 TRUE OR FALSE GAME</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="fever_and_or_chills">Fever and/or Chills</string>
+    <string name="coughing">Coughing</string>
+    <string name="loss_of_taste">Loss of Taste</string>
+    <string name="nausea">Nausea</string>
+    <string name="question_1_in_the_last_14_days_have_you_travelled_outside_of_your_home_country">Question 1: In the last 14 days have you travelled outside of your home country?</string>
+    <string name="question_2_has_a_doctor_health_care_provideer_or_public_health_unit_told_you_that_you_should_currently_be_isolating">Question 2: Has a doctor, health care provideer, or public health unit told you that you should currently be isolating?</string>
+    <string name="question_3_are_you_currently_experiencing_any_of_these_symptoms">Question 3: Are you currently experiencing any of these symptoms?</string>
+    <string name="question_2_has_a_doctor_health_care_provider_or_public_health_unit_told_you_that_you_should_currently_be_isolating" />
+
+
+    CDC Science and Research - https://www.cdc.gov/coronavirus/2019-ncov/science/science-and-research.html
+
+    Nature COVID research - https://www.nature.com/articles/d41586-020-00502-w
+
+    McGill COVID misinfomation - https://www.mcgill.ca/newsroom/channels/news/americans-are-super-spreaders-covid-19-misinformation-330229
+
+    FDA Vaccine Approval - https://www.fda.gov/news-events/press-announcements/fda-approves-first-covid-19-vaccine
+
+    CDC COVID Symptoms - https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html
+
+    CDC Vaccine Benefits - https://www.cdc.gov/coronavirus/2019-ncov/vaccines/vaccine-benefits.html
+
+    WHO COVID Research - https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov
+
+    THE LANCET Impacts of COVID after hospitalization - https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(21)00383-0/fulltext
+
+    The LANCET Vaccine Effectiveness - https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(21)00069-0/fulltext
+
+
+
+    <string-array name="resources_array">
+        <item name="linktosite">
+        <a href="https://www.cdc.gov/coronavirus/2019-ncov/index.html/">CDC Homepage - https://www.cdc.gov/coronavirus/2019-ncov/index.html/
+
+        </a>
+    </item>
+        <item name="linktosite2">
+        <a href="https://www.cdc.gov/coronavirus/2019-ncov/vaccines/index.html/
+            ">CDC Vaccines - https://www.cdc.gov/coronavirus/2019-ncov/vaccines/index.html/
+
+        </a>
+    </item>
+        <item name="linktosite3">
+        <a href="https://covid.cdc.gov/covid-data-tracker/#datatracker-home
+">CDC Cases and Data - https://covid.cdc.gov/covid-data-tracker/#datatracker-home
+
+        </a>
+    </item>
+        <item name="linktosite4">
+        <a href="https://www.cdc.gov/coronavirus/2019-ncov/science/science-and-research.html/">CDC Science and Research - https://www.cdc.gov/coronavirus/2019-ncov/science/science-and-research.html/
+        </a>
+    </item>
+        <item name="linktosite5">
+        <a href="https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html
+">CDC COVID Symptoms - https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html
+
+        </a>
+    </item>
+        <item name="linktosite6">
+        <a href="https://www.cdc.gov/coronavirus/2019-ncov/vaccines/vaccine-benefits.html
+">CDC Vaccine Benefits - https://www.cdc.gov/coronavirus/2019-ncov/vaccines/vaccine-benefits.html
+
+        </a>
+    </item>
+        <item name="linktosite7">
+        <a href="https://www.fda.gov/news-events/press-announcements/fda-approves-first-covid-19-vaccine
+">FDA Vaccine Approval - https://www.fda.gov/news-events/press-announcements/fda-approves-first-covid-19-vaccine
+
+        </a>
+    </item>
+        <item name="linktosite8">
+        <a href="https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(21)00383-0/fulltext
+">THE LANCET Impacts of COVID after hospitalization - https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(21)00383-0/fulltext
+
+        </a>
+    </item>
+        <item name="linktosite9">
+        <a href="https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(21)00069-0/fulltext
+">The LANCET Vaccine Effectiveness - https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(21)00069-0/fulltext
+
+        </a>
+    </item>
+        <item name="linktosite10">
+        <a href="https://www.nature.com/articles/d41586-020-00502-w
+">Nature COVID research - https://www.nature.com/articles/d41586-020-00502-w
+
+        </a>
+    </item>
+        <item name="linktosite11">
+        <a href="https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(21)00069-0/fulltext
+
+">McGill COVID misinformation - https://www.mcgill.ca/newsroom/channels/news/americans-are-super-spreaders-covid-19-misinformation-330229
+</a>
+    </item>
+
+    <item name="linktosite12">
+        <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov
+
+
+">WHO COVID Research - https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov
+  </a>
+    </item>
+
+    </string-array>
+    \
+
+</resources>
